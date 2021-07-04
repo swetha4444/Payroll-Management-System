@@ -17,4 +17,26 @@ A database management software for managing employee's payroll.  It's designed t
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  </p>
  
+ ## Existing Features
+* Secure login for both Admin and Employee 
+* Admin Features
+  * View and updation of Employee details 
+  * Adding new employees as well as giving them access to the Payroll Manager
+  * Update salary details of employees
+  * Add or update achievements for employees
+* Employee Features:
+  * Viewing their own:
+    * Profile
+    * Address details
+    * Salary details
+    * Achievements
+  * Updating their address details
+* Leave Management for employee - handling leave requests
+* Useful chatbot that will handle simple queries of the users. Intergrated to the web application using <a href="https://cloud.google.com/dialogflow/docs">Dialogflow</a> natural language understanding platform by ```Google```.
+
+
+ 
 ## Output
+![screencapture-127-0-0-1-8000-2021-07-04-14_27_08](https://user-images.githubusercontent.com/68152189/124379327-fd406c80-dcd3-11eb-9c38-f9a897ca1275.png)
+![image](https://user-images.githubusercontent.com/68152189/124379365-2cef7480-dcd4-11eb-8c3a-61bb34c1a259.png)
+
