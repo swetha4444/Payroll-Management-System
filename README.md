@@ -1,8 +1,9 @@
 # Payroll Management System
-The proposed project “ Payroll Management System” has been developed to vercome the problems faced in the practice of manual systems. Payroll Management System is designed to make the existing manual system automatic with the help of computerised equipment and full-edged computer software, fulfilling their requirements, so that their valuable data and information can be stored for a longer period with easy access and manipulation of the same. This software is built to eliminate and in some cases reduce the hardships faced by the existing system. Moreover this system is designed for particular needs of the company to carry out its operations in a smooth and effective manner.
+The proposed project **“Payroll Management System”** has been developed to vercome the problems faced in the practice of manual systems. Payroll Management System is designed to make the existing manual system automatic with the help of computerised equipment and full-edged computer software, fulfilling their requirements, so that their valuable data and information can be stored for a longer period with easy access and manipulation of the same. This software is built to eliminate and in some cases reduce the hardships faced by the existing system. Moreover this system is designed for particular needs of the company to carry out its operations in a smooth and effective manner.
 <br><br>
 A database management software for managing employee's payroll.  It's designed to organize all the tasks of employee payment and calculating wages, deductions.  Created using **HTML, CSS, Python (Django) and MySQL** . Finally, we can say that this system will not only automate the process but save the valuable time of the manager or the admin, which can be well utilized by his institute. This will be an additional advantage and management of power based on their free time from his normal duty.
 
+#### ``` This is a group project done as a part of my College Curriculum.```
 #### ```SRS Document is attached.```
 
 ## Technology Stack
