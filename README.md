@@ -3,7 +3,7 @@ The proposed project “ Payroll Management System” has been developed to verc
 <br><br>
 A database management software for managing employee's payroll.  It's designed to organize all the tasks of employee payment and calculating wages, deductions.  Created using **HTML, CSS, Python (Django) and MySQL** . Finally, we can say that this system will not only automate the process but save the valuable time of the manager or the admin, which can be well utilized by his institute. This will be an additional advantage and management of power based on their free time from his normal duty.
 
-#### ```**SRS Document is attached.**```
+#### ```SRS Document is attached.```
 
 ## Technology Stack
 <p float="left">
